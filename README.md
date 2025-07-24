@@ -44,7 +44,7 @@ Inspired by the TD4—a discrete 4‑bit CPU initially presented in Iku Watanabe
 Start by cloning this repository.
 
 ```sh
-git clone 'https://github.com/AranweLTT/74xx-4bit-cpu.git'
+git clone 'https://github.com/AranweLTT/dip-74.git'
 ```
 
 To use the assembler and simulator write a program in a .asm file and run the simulator specifying the file.
